@@ -1,0 +1,7 @@
+mqtt:
+   automaticReconnect: true
+   cleanSession: true
+   connectionTimeout: 10
+   clientId: md1yw7dc-MQTT
+   hostname: 127.0.0.1
+   port: 1883
